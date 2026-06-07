@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+jupyter
+ipykernel
+openpyxl
+requests
+python-dotenv
+scikit-learn
+scipy
+seaborn
